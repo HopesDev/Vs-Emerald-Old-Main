@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="emerald_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="emerald DOWN note0000" x="0" y="0" width="819" height="586" frameX="0" frameY="0" frameWidth="821" frameHeight="586"/>
+	<SubTexture name="emerald DOWN note0001" x="0" y="0" width="819" height="586" frameX="0" frameY="0" frameWidth="821" frameHeight="586"/>
+	<SubTexture name="emerald DOWN note0002" x="0" y="0" width="819" height="586" frameX="-2" frameY="0" frameWidth="821" frameHeight="586"/>
+	<SubTexture name="emerald DOWN note0003" x="0" y="0" width="819" height="586" frameX="-2" frameY="0" frameWidth="821" frameHeight="586"/>
+	<SubTexture name="emerald DOWN note0004" x="0" y="0" width="819" height="586" frameX="-2" frameY="0" frameWidth="821" frameHeight="586"/>
+	<SubTexture name="emerald DOWN note0005" x="0" y="0" width="819" height="586" frameX="-2" frameY="0" frameWidth="821" frameHeight="586"/>
+	<SubTexture name="emerald DOWN note0006" x="0" y="0" width="819" height="586" frameX="-2" frameY="0" frameWidth="821" frameHeight="586"/>
+	<SubTexture name="emerald DOWN note0007" x="0" y="0" width="819" height="586" frameX="-2" frameY="0" frameWidth="821" frameHeight="586"/>
+	<SubTexture name="emerald DOWN note0008" x="0" y="0" width="819" height="586" frameX="-2" frameY="0" frameWidth="821" frameHeight="586"/>
+	<SubTexture name="emerald DOWN note0009" x="0" y="0" width="819" height="586" frameX="-2" frameY="0" frameWidth="821" frameHeight="586"/>
+	<SubTexture name="emerald DOWN note0010" x="0" y="0" width="819" height="586" frameX="-2" frameY="0" frameWidth="821" frameHeight="586"/>
+	<SubTexture name="emerald DOWN note0011" x="0" y="0" width="819" height="586" frameX="-2" frameY="0" frameWidth="821" frameHeight="586"/>
+	<SubTexture name="emerald DOWN note0012" x="0" y="0" width="819" height="586" frameX="-2" frameY="0" frameWidth="821" frameHeight="586"/>
+	<SubTexture name="emerald DOWN note0013" x="0" y="0" width="819" height="586" frameX="-2" frameY="0" frameWidth="821" frameHeight="586"/>
+	<SubTexture name="emerald DOWN note0014" x="0" y="0" width="819" height="586" frameX="-2" frameY="0" frameWidth="821" frameHeight="586"/>
+	<SubTexture name="emerald DOWN note0015" x="0" y="0" width="819" height="586" frameX="-2" frameY="0" frameWidth="821" frameHeight="586"/>
+	<SubTexture name="emerald DOWN note0016" x="0" y="0" width="819" height="586" frameX="-2" frameY="0" frameWidth="821" frameHeight="586"/>
+	<SubTexture name="emerald DOWN note0017" x="0" y="0" width="819" height="586" frameX="-2" frameY="0" frameWidth="821" frameHeight="586"/>
+	<SubTexture name="emerald DOWN note0018" x="0" y="0" width="819" height="586" frameX="-2" frameY="0" frameWidth="821" frameHeight="586"/>
+	<SubTexture name="emerald DOWN note0019" x="0" y="0" width="819" height="586" frameX="-2" frameY="0" frameWidth="821" frameHeight="586"/>
+	<SubTexture name="emerald DOWN note0020" x="0" y="0" width="819" height="586" frameX="-2" frameY="0" frameWidth="821" frameHeight="586"/>
+	<SubTexture name="emerald DOWN note0021" x="0" y="0" width="819" height="586" frameX="-2" frameY="0" frameWidth="821" frameHeight="586"/>
+	<SubTexture name="emerald DOWN note0022" x="0" y="0" width="819" height="586" frameX="-2" frameY="0" frameWidth="821" frameHeight="586"/>
+	<SubTexture name="emerald DOWN note0023" x="0" y="0" width="819" height="586" frameX="-2" frameY="0" frameWidth="821" frameHeight="586"/>
+	<SubTexture name="emerald DOWN note0024" x="0" y="0" width="819" height="586" frameX="-2" frameY="0" frameWidth="821" frameHeight="586"/>
+	<SubTexture name="emerald UP NOTE0000" x="819" y="0" width="811" height="599" frameX="0" frameY="-2" frameWidth="811" frameHeight="601"/>
+	<SubTexture name="emerald UP NOTE0001" x="819" y="0" width="811" height="599" frameX="0" frameY="-2" frameWidth="811" frameHeight="601"/>
+	<SubTexture name="emerald UP NOTE0002" x="819" y="0" width="811" height="599" frameX="0" frameY="0" frameWidth="811" frameHeight="601"/>
+	<SubTexture name="emerald UP NOTE0003" x="819" y="0" width="811" height="599" frameX="0" frameY="0" frameWidth="811" frameHeight="601"/>
+	<SubTexture name="emerald UP NOTE0004" x="819" y="0" width="811" height="599" frameX="0" frameY="0" frameWidth="811" frameHeight="601"/>
+	<SubTexture name="emerald dance idle0000" x="1630" y="0" width="905" height="592" frameX="-1" frameY="-2" frameWidth="908" frameHeight="595"/>
+	<SubTexture name="emerald dance idle0001" x="1630" y="0" width="905" height="592" frameX="-1" frameY="-2" frameWidth="908" frameHeight="595"/>
+	<SubTexture name="emerald dance idle0002" x="2535" y="0" width="905" height="592" frameX="-1" frameY="-2" frameWidth="908" frameHeight="595"/>
+	<SubTexture name="emerald dance idle0003" x="2535" y="0" width="905" height="592" frameX="-1" frameY="-2" frameWidth="908" frameHeight="595"/>
+	<SubTexture name="emerald dance idle0004" x="0" y="599" width="905" height="592" frameX="-1" frameY="-3" frameWidth="908" frameHeight="595"/>
+	<SubTexture name="emerald dance idle0005" x="0" y="599" width="905" height="592" frameX="-1" frameY="-3" frameWidth="908" frameHeight="595"/>
+	<SubTexture name="emerald dance idle0006" x="905" y="599" width="905" height="592" frameX="-3" frameY="-1" frameWidth="908" frameHeight="595"/>
+	<SubTexture name="emerald dance idle0007" x="905" y="599" width="905" height="592" frameX="-3" frameY="-1" frameWidth="908" frameHeight="595"/>
+	<SubTexture name="emerald dance idle0008" x="1810" y="599" width="905" height="592" frameX="0" frameY="-1" frameWidth="908" frameHeight="595"/>
+	<SubTexture name="emerald dance idle0009" x="1810" y="599" width="905" height="592" frameX="0" frameY="-1" frameWidth="908" frameHeight="595"/>
+	<SubTexture name="emerald dance idle0010" x="2715" y="599" width="905" height="592" frameX="0" frameY="-2" frameWidth="908" frameHeight="595"/>
+	<SubTexture name="emerald dance idle0011" x="2715" y="599" width="905" height="592" frameX="0" frameY="-2" frameWidth="908" frameHeight="595"/>
+	<SubTexture name="emerald dance idle0012" x="0" y="1191" width="905" height="592" frameX="0" frameY="-1" frameWidth="908" frameHeight="595"/>
+	<SubTexture name="emerald dance idle0013" x="0" y="1191" width="905" height="592" frameX="0" frameY="-1" frameWidth="908" frameHeight="595"/>
+	<SubTexture name="emerald dance idle0014" x="905" y="1191" width="905" height="592" frameX="0" frameY="0" frameWidth="908" frameHeight="595"/>
+	<SubTexture name="emerald dance idle0015" x="905" y="1191" width="905" height="592" frameX="0" frameY="0" frameWidth="908" frameHeight="595"/>
+	<SubTexture name="emerald sing left0000" x="1810" y="1191" width="696" height="597" frameX="-1" frameY="0" frameWidth="698" frameHeight="597"/>
+	<SubTexture name="emerald sing left0001" x="1810" y="1191" width="696" height="597" frameX="-1" frameY="0" frameWidth="698" frameHeight="597"/>
+	<SubTexture name="emerald sing left0002" x="2506" y="1191" width="698" height="597"/>
+	<SubTexture name="emerald sing left0003" x="2506" y="1191" width="698" height="597"/>
+	<SubTexture name="emerald sing left0004" x="2506" y="1191" width="698" height="597"/>
+	<SubTexture name="emerald sing left0005" x="2506" y="1191" width="698" height="597"/>
+	<SubTexture name="emerald sing left0006" x="2506" y="1191" width="698" height="597"/>
+	<SubTexture name="emerald sing left0007" x="2506" y="1191" width="698" height="597"/>
+	<SubTexture name="emerald sing left0008" x="2506" y="1191" width="698" height="597"/>
+	<SubTexture name="emerald sing left0009" x="2506" y="1191" width="698" height="597"/>
+	<SubTexture name="emerald sing left0010" x="2506" y="1191" width="698" height="597"/>
+	<SubTexture name="emerald sing left0011" x="2506" y="1191" width="698" height="597"/>
+	<SubTexture name="emerald sing left0012" x="2506" y="1191" width="698" height="597"/>
+	<SubTexture name="emerald sing left0013" x="2506" y="1191" width="698" height="597"/>
+	<SubTexture name="emerald sing left0014" x="2506" y="1191" width="698" height="597"/>
+	<SubTexture name="emerald sing right0000" x="3204" y="1191" width="746" height="597" frameX="0" frameY="0" frameWidth="748" frameHeight="597"/>
+	<SubTexture name="emerald sing right0001" x="3204" y="1191" width="746" height="597" frameX="0" frameY="0" frameWidth="748" frameHeight="597"/>
+	<SubTexture name="emerald sing right0002" x="3204" y="1191" width="746" height="597" frameX="-2" frameY="0" frameWidth="748" frameHeight="597"/>
+	<SubTexture name="emerald sing right0003" x="3204" y="1191" width="746" height="597" frameX="-2" frameY="0" frameWidth="748" frameHeight="597"/>
+	<SubTexture name="emerald sing right0004" x="3204" y="1191" width="746" height="597" frameX="-2" frameY="0" frameWidth="748" frameHeight="597"/>
+	<SubTexture name="emerald sing right0005" x="3204" y="1191" width="746" height="597" frameX="-2" frameY="0" frameWidth="748" frameHeight="597"/>
+	<SubTexture name="emerald sing right0006" x="3204" y="1191" width="746" height="597" frameX="-2" frameY="0" frameWidth="748" frameHeight="597"/>
+	<SubTexture name="emerald sing right0007" x="3204" y="1191" width="746" height="597" frameX="-2" frameY="0" frameWidth="748" frameHeight="597"/>
+	<SubTexture name="emerald sing right0008" x="3204" y="1191" width="746" height="597" frameX="-2" frameY="0" frameWidth="748" frameHeight="597"/>
+	<SubTexture name="emerald sing right0009" x="3204" y="1191" width="746" height="597" frameX="-2" frameY="0" frameWidth="748" frameHeight="597"/>
+	<SubTexture name="emerald sing right0010" x="3204" y="1191" width="746" height="597" frameX="-2" frameY="0" frameWidth="748" frameHeight="597"/>
+	<SubTexture name="emerald sing right0011" x="3204" y="1191" width="746" height="597" frameX="-2" frameY="0" frameWidth="748" frameHeight="597"/>
+	<SubTexture name="emerald sing right0012" x="3204" y="1191" width="746" height="597" frameX="-2" frameY="0" frameWidth="748" frameHeight="597"/>
+	<SubTexture name="emerald sing right0013" x="3204" y="1191" width="746" height="597" frameX="-2" frameY="0" frameWidth="748" frameHeight="597"/>
+	<SubTexture name="emerald sing right0014" x="3204" y="1191" width="746" height="597" frameX="-2" frameY="0" frameWidth="748" frameHeight="597"/>
+	<SubTexture name="emerald sing right0015" x="3204" y="1191" width="746" height="597" frameX="-2" frameY="0" frameWidth="748" frameHeight="597"/>
+	<SubTexture name="emerald sing right0016" x="3204" y="1191" width="746" height="597" frameX="-2" frameY="0" frameWidth="748" frameHeight="597"/>
+	<SubTexture name="emerald sing right0017" x="3204" y="1191" width="746" height="597" frameX="-2" frameY="0" frameWidth="748" frameHeight="597"/>
+	<SubTexture name="emerald sing right0018" x="3204" y="1191" width="746" height="597" frameX="-2" frameY="0" frameWidth="748" frameHeight="597"/>
+	<SubTexture name="emerald sing right0019" x="3204" y="1191" width="746" height="597" frameX="-2" frameY="0" frameWidth="748" frameHeight="597"/>
+	<SubTexture name="emerald sing right0020" x="3204" y="1191" width="746" height="597" frameX="-2" frameY="0" frameWidth="748" frameHeight="597"/>
+	<SubTexture name="emerald sing right0021" x="3204" y="1191" width="746" height="597" frameX="-2" frameY="0" frameWidth="748" frameHeight="597"/>
+	<SubTexture name="emerald sing right0022" x="3204" y="1191" width="746" height="597" frameX="-2" frameY="0" frameWidth="748" frameHeight="597"/>
+	<SubTexture name="emerald sing right0023" x="3204" y="1191" width="746" height="597" frameX="-2" frameY="0" frameWidth="748" frameHeight="597"/>
+	<SubTexture name="emerald sing right0024" x="3204" y="1191" width="746" height="597" frameX="-2" frameY="0" frameWidth="748" frameHeight="597"/>
+</TextureAtlas>

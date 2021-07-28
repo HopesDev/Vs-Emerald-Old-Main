@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Virus.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fondo 30000" x="0" y="0" width="3202" height="1829"/>
+	<SubTexture name="fondo 30001" x="0" y="0" width="3202" height="1829"/>
+	<SubTexture name="fondo 30002" x="0" y="0" width="3202" height="1829"/>
+	<SubTexture name="fondo 30003" x="3202" y="0" width="3202" height="1829"/>
+	<SubTexture name="fondo 30004" x="3202" y="0" width="3202" height="1829"/>
+	<SubTexture name="fondo 30005" x="3202" y="0" width="3202" height="1829"/>
+	<SubTexture name="fondo 30006" x="0" y="1829" width="3202" height="1829"/>
+	<SubTexture name="fondo 30007" x="0" y="1829" width="3202" height="1829"/>
+	<SubTexture name="fondo 30008" x="0" y="1829" width="3202" height="1829"/>
+	<SubTexture name="fondo 30009" x="0" y="1829" width="3202" height="1829"/>
+	<SubTexture name="fondo 30010" x="3202" y="1829" width="3202" height="1829"/>
+	<SubTexture name="fondo 30011" x="0" y="3658" width="3202" height="1829"/>
+	<SubTexture name="fondo 30012" x="0" y="3658" width="3202" height="1829"/>
+	<SubTexture name="fondo 30013" x="3202" y="3658" width="3202" height="1829"/>
+</TextureAtlas>
