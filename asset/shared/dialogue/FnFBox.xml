@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FnFBox.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BFCaja.png" x="0" y="0" width="1216" height="416"/>
+	<SubTexture name="EmdCaja.png" x="0" y="416" width="1346" height="569"/>
+	<SubTexture name="GfCaja.png" x="0" y="985" width="1218" height="484"/>
+</TextureAtlas>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RelexBoss.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Relex box0000" x="0" y="0" width="1369" height="765"/>
+	<SubTexture name="Relex box0001" x="1369" y="0" width="1369" height="765"/>
+	<SubTexture name="Relex box0002" x="0" y="865" width="1369" height="765"/>
+	<SubTexture name="Relex box0003" x="1369" y="965" width="1369" height="765"/>
+	<SubTexture name="Relex box0004" x="0" y="2830" width="1369" height="765"/>
+</TextureAtlas>
